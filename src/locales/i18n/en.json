@@ -1,0 +1,13 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "loading": "Loading..."
+  },
+  "login": {
+    "title": "Sign In",
+    "email": "Email",
+    "password": "Password"
+  }
+}
