@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import PageTeste from './modules/pageTeste/PageTeste';
+import MeuForm from './modules/MeuForm';
 
 function App() {
   return (
     <div className="App">
-      <PageTeste />
+      <MeuForm />
     </div>
   );
 }
